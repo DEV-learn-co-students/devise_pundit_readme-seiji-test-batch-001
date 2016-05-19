@@ -1,0 +1,1 @@
+# devise_pundit_readme-seiji-test-batch-001
